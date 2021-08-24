@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TristanHillyard
 - 👀 I’m interested in programming anything web related or backend related.
-- 🌱 I’m currently learning more about React and React Native.
+- 🌱 I’m currently learning more about React and React Native on my personal time.
 
 
 <!---
